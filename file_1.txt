@@ -1,3 +1,4 @@
 Hi How are you
 Here you go
 What it is now
+Added new line after cloning
